@@ -3,10 +3,11 @@
 # O hře
 
 Hra je již dodělaná a připravená ke kontrole.
+Zahrajte si ji prosím
 
 ## Backrooms Simulator
 
-Napodobenina creepypasty The Backrooms - jiná dimenzi, do které se dá no-clipnout na nějakých místech. -- Všechno je smyšlené...
+Napodobenina creepypasty The Backrooms - jiná dimenze, do které se dá no-clipnout na nějakých místech. -- Všechno je smyšlené...
 
 ## Vyjádření k zadání
 
