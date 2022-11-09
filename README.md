@@ -1,5 +1,26 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9231626&assignment_repo_type=AssignmentRepo)
-# Oprava testu na odkazy mezi soubory
+
+# O hře
+
+Hra je již dodělaná a připravená ke kontrole.
+
+## Backrooms Simulator
+
+Napodobenina creepypasty The Backrooms - jiná dimenzi, do které se dá no-clipnout na nějakých místech. -- Všechno je smyšlené...
+
+## Vyjádření k zadání
+
+* ✅ hra obsahuje alespoň 8 míst 
+* ✅ příběh je libovolný, ale obsahuje větvení 
+* ✅ struktura složek má v jednom místě alespoň tři úrovně  **(/level0/lighter/lost/..)**
+* ✅ existuje odkaz z jedné větve do druhé (například z *zona1/misto1/lokace2.html* do *zona2/misto1/index.html*)  **(stairs, hub, smrti)**
+* ✅ každá lokace má odpovídající obrázek ze složky */images*  **(všechny kromě smrtí - nejsou to místa a obrázku s dobrou kvalitou na internetu o Backrooms tolik není)**
+* ✅ soubory jsou správně pojmenované - tj. bez diakritiky, mezer, je použit index.html 
+* ✅ cely web (gamebook) je uložen do námi poskytnutého repozitáře pomocí VS Code a commit+push 
+* ✅ stránky jsou validní 
+
+
+# Zadání - Oprava testu na odkazy mezi soubory
 
 ## Zadání
 
